@@ -1,5 +1,11 @@
+Video game like **"Mattel Auto Race"** for micro:bit. 
 
-> Ouvrir cette page à [https://alexandrelugand.github.io/mattel-auto-race/](https://alexandrelugand.github.io/mattel-auto-race/)
+Press A+B to start the race. 
+
+The level will increase automatically (increase 50% of speed by level). 
+
+Next level after winned more 100 points.
+
 
 ## Utiliser comme extension
 
