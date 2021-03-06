@@ -28,8 +28,8 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 ## Extension pour VSCode
 
-![Device Simulator Express](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/devicesimulatorexpress/2020.0.36321/1587585887579/Microsoft.VisualStudio.Services.Icons.Default)
+### Device Simulator Express
 
-Device Simulator Express
+![Device Simulator Express](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/devicesimulatorexpress/2020.0.36321/1587585887579/Microsoft.VisualStudio.Services.Icons.Default)
 
 https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress
