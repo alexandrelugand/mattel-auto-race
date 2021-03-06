@@ -33,7 +33,10 @@ Cette image peut prendre quelques minutes pour être actualisée.
 
 ![Un rendu de la vue des blocs](https://github.com/alexandrelugand/mattel-auto-race/raw/master/.github/makecode/blocks.png)
 
-#### Métadonnées (utilisées pour la recherche, le rendu)
+#### Extension pour VSCode
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+![Device Simulator Express](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/devicesimulatorexpress/2020.0.36321/1587585887579/Microsoft.VisualStudio.Services.Icons.Default)
+
+Device Simulator Express
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress
