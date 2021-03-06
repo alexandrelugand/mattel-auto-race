@@ -26,13 +26,6 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
 * collez **https://github.com/alexandrelugand/mattel-auto-race** et cliquez sur importer
 
-## Aperçu des blocs
-
-Cette section montre le code des blocs du dernier commit dans la branche master.
-Cette image peut prendre quelques minutes pour être actualisée.
-
-![Un rendu de la vue des blocs](https://github.com/alexandrelugand/mattel-auto-race/raw/master/.github/makecode/blocks.png)
-
 #### Extension pour VSCode
 
 ![Device Simulator Express](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/devicesimulatorexpress/2020.0.36321/1587585887579/Microsoft.VisualStudio.Services.Icons.Default)
