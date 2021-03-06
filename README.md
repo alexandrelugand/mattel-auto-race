@@ -1,3 +1,5 @@
+![Le jeu électronique Auto Race de Mattel.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mattel_Electronics_Auto_Race%2C_No._9879%2C_Red_LED%2C_Made_In_Hong_Kong%2C_Copyright_1976_%28LED_Handheld_Electronic_Game%29.jpg/220px-Mattel_Electronics_Auto_Race%2C_No._9879%2C_Red_LED%2C_Made_In_Hong_Kong%2C_Copyright_1976_%28LED_Handheld_Electronic_Game%29.jpg)
+
 Video game like **"Mattel Auto Race"** for micro:bit. 
 
 Press A+B to start the race. 
